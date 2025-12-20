@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Mugilan
 
-<!--
-**mugilan-tech-web/mugilan-tech-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Electrical & Computer Engineering  
+📊 Aspiring Data Analyst  
+⚡ Energy Systems | Solar | Batteries  
+📍 India  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Basics)
+- Excel
+- SQL (Learning)
+- Statistics
+- Power BI (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- Solar Inverter Monitoring (Planned)
+- Battery SOC & SOH Analysis (Planned)
+- Energy Data Analytics (Planned)
+
+## 🎯 Career Goal
+Become a Data Analyst in the energy domain by 2028.
